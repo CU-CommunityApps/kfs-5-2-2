@@ -1,2 +1,0 @@
-fdoc_nbr|fdoc_status_cd|fdoc_total_amt|fdoc_in_err_nbr|temp_doc_fnl_dt|
-3431|A||||
